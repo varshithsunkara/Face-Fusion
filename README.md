@@ -21,6 +21,15 @@
 - **Python**: Core programming language for AI model integration.
 - **Flask**: Backend framework for handling model operations.
 
+## 🤝 Meet the Team
+- **Sibi Siddharth S** ([@sibisiddharth8](https://github.com/sibisiddharth8))  
+  *Frontend & Machine Learning Developer*  
+
+- **Pradnya K T** ([@Pradnya2003](https://github.com/Pradnya2003))  
+  *Machine Learning Developer*  
+
+- **Yuvanandhini** ([@YUVANANDHINI1](https://github.com/YUVANANDHINI1))  
+  *Machine Learning Developer*  
 
 ## 🛠️ Contributing
 We love contributions! Feel free to fork this repository, open an issue, or submit a pull request to help improve FaceFusion. Your input is valuable, and we appreciate all suggestions and contributions.
